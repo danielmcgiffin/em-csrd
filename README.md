@@ -1,5 +1,5 @@
 
-# Old Gus' Cypher System Reference Document (EM-CSRD)
+# Epicus Montaigne's Cypher System Reference Document (EM-CSRD)
 
 https://callmepartario.github.io/em-csrd
 
@@ -11,7 +11,7 @@ CYPHER SYSTEM and its logo are trademarks of Monte Cook Games, LLC in the U.S.A.
 
 ## EM-CSRD Goals
 
-In compiling Old Gus' Cypher System Reference Document (EM-CSRD) from the source material, I had the following goals:
+In compiling Epicus Montaigne's Cypher System Reference Document (EM-CSRD) from the source material, I had the following goals:
 
 ### Ease of Use
 
