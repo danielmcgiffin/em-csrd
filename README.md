@@ -1,7 +1,7 @@
 
-# Old Gus' Cypher System Reference Document (OG-CSRD)
+# Old Gus' Cypher System Reference Document (EM-CSRD)
 
-https://callmepartario.github.io/og-csrd
+https://callmepartario.github.io/em-csrd
 
 This document is a hypertext version of the April 18, 2023 edition of the [Cypher System Reference Document (CSRD)](http://csol.montecookgames.com/). It is intended to help Game Masters (GMs), players, and others interested in the Cypher System to learn more about it, create characters, worlds, and share stories together.
 
@@ -9,9 +9,9 @@ This product is an independent production and is not affiliated with Monte Cook 
 
 CYPHER SYSTEM and its logo are trademarks of Monte Cook Games, LLC in the U.S.A. and other countries. All Monte Cook Games characters and character names, and the distinctive likenesses thereof, are trademarks of Monte Cook Games, LLC.
 
-## OG-CSRD Goals
+## EM-CSRD Goals
 
-In compiling Old Gus' Cypher System Reference Document (OG-CSRD) from the source material, I had the following goals:
+In compiling Old Gus' Cypher System Reference Document (EM-CSRD) from the source material, I had the following goals:
 
 ### Ease of Use
 
@@ -29,7 +29,7 @@ Care should be taken when incorporating content, streamlining a a single-stream 
 
 Editor's notes should draw upon the experiences of people who have spent years running and teaching the Cypher System (like the fine folks of the [Cypher Unlimited Discord Server](https://discord.com/invite/WQYRWhn). Valuable blog posts from [Monte Cook Games' "Game Better" series](https://www.montecookgames.com/category/all-news/game-better/) should be linked where applicable.
 
-Readers are encouraged to support the creators. Consider buying products listed in the [Additional Descriptors](https://callmepartario.github.io/og-csrd/#additional-descriptors) or [Additional Foci](https://callmepartario.github.io/og-csrd/#additional-foci) sections to ensure the longevity of our collective imaginations.
+Readers are encouraged to support the creators. Consider buying products listed in the [Additional Descriptors](https://callmepartario.github.io/em-csrd/#additional-descriptors) or [Additional Foci](https://callmepartario.github.io/em-csrd/#additional-foci) sections to ensure the longevity of our collective imaginations.
 ## Future Plans
 
 This is a living document, and corrections will need to be made in the future. If ever Monte Cook Games expands the CSRD further, that new content should be incorporated that content into this document accordingly.

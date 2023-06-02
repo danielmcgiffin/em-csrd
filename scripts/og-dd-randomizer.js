@@ -1,5 +1,5 @@
 // Fetch data
-let fetchData = await fetch("./db/og-dd.json");
+let fetchData = await fetch("./db/em-dd.json");
 let data = await fetchData.json();
 
 //initialize
